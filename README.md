@@ -7,3 +7,23 @@ The following activities have been included in the program:
 1) Drinking water.
 2) Eye exercise.
 3) Full Body exercise.
+
+
+## Additional Files Required
+
+* water.mp3
+* exercise.mp3
+* eyes.mp3
+
+
+## Requirements
+  
+* distlib==0.3.1
+* pygame==1.9.6
+* python-dateutil==2.8.1
+* python==3.8.2
+
+
+## Instructions to install a module in python
+
+pip install module_name
